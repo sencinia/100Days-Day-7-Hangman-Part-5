@@ -1,0 +1,2 @@
+# 100Days-Day-7-Hangman-Part-5
+This stage of the process, I imported custom modules to keep the code clean.  The modules include a larger list of words to be randomly chosen from as well as all of the ASCII art for the project.  I also added a new list that will keep track of all of the previously guessed letters. If a user guesses a letter that had already been guessed, it will prompt the user that they have already guessed that letter.
